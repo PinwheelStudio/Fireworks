@@ -1,0 +1,30 @@
+﻿<xapCache source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\SparkleNight\Bin\ARM\Debug\SparkleNight_Debug_ARM.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="3/7/2015 11:28:37 PM">
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\SparkleNight\obj\ARM\Debug\SparkleNight.dll" archivePath="SparkleNight.dll" lastWriteTime="3/7/2015 11:28:26 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\SparkleNight\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="6/10/2014 10:33:10 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\SparkleNight\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="6/10/2014 10:33:10 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\SparkleNight\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="6/10/2014 10:33:10 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\SparkleNight\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="6/10/2014 10:33:10 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\SparkleNight\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="6/10/2014 10:33:10 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\SparkleNight\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="6/10/2014 10:33:10 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\SparkleNight\Data\mainData" archivePath="Data\mainData" lastWriteTime="3/7/2015 11:27:40 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\SparkleNight\Data\managedAssemblies.txt" archivePath="Data\managedAssemblies.txt" lastWriteTime="3/7/2015 11:27:53 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\SparkleNight\Data\PlayerConnectionConfigFile" archivePath="Data\PlayerConnectionConfigFile" lastWriteTime="3/7/2015 11:27:41 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\SparkleNight\Data\Resources\unity default resources" archivePath="Data\Resources\unity default resources" lastWriteTime="12/5/2014 4:44:38 AM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\SparkleNight\Data\Resources\unity_builtin_extra" archivePath="Data\Resources\unity_builtin_extra" lastWriteTime="3/7/2015 11:27:41 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\SparkleNight\Data\sharedassets0.assets" archivePath="Data\sharedassets0.assets" lastWriteTime="3/7/2015 11:27:40 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\SparkleNight\Data\sharedassets0.assets.resS" archivePath="Data\sharedassets0.assets.resS" lastWriteTime="3/7/2015 11:27:40 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\SparkleNight\Bin\ARM\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="3/7/2015 11:28:32 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\SparkleNight\Bin\ARM\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="6/10/2014 10:33:10 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\SparkleNight\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="6/10/2014 10:33:10 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\SparkleNight\Assembly-CSharp.dll" archivePath="Assembly-CSharp.dll" lastWriteTime="3/7/2015 11:27:53 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\SparkleNight\Assembly-UnityScript-firstpass.dll" archivePath="Assembly-UnityScript-firstpass.dll" lastWriteTime="3/7/2015 11:27:53 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\Players\ARM\Release\BridgeInterface.winmd" archivePath="BridgeInterface.winmd" lastWriteTime="12/5/2014 6:52:46 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\SparkleNight\UnityEngine.dll" archivePath="UnityEngine.dll" lastWriteTime="3/7/2015 11:27:53 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\SparkleNight\UnityEngine.UI.dll" archivePath="UnityEngine.UI.dll" lastWriteTime="3/7/2015 11:27:53 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\Players\ARM\Release\UnityPlayer.winmd" archivePath="UnityPlayer.winmd" lastWriteTime="12/5/2014 6:58:46 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\Players\ARM\Release\WinRTBridge.dll" archivePath="WinRTBridge.dll" lastWriteTime="12/5/2014 6:52:48 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\SparkleNight\WinRTLegacy.dll" archivePath="WinRTLegacy.dll" lastWriteTime="3/7/2015 11:27:53 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\Players\ARM\Release\BridgeInterface.dll" archivePath="BridgeInterface.dll" lastWriteTime="12/5/2014 6:52:46 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\Players\ARM\Release\UnityPlayer.dll" archivePath="UnityPlayer.dll" lastWriteTime="12/5/2014 6:59:32 PM" />
+  <file source="C:\Users\AntonTNT\OneDrive\Game Project\Fireworks\Build\WP8\SparkleNight\Bin\ARM\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="3/7/2015 11:28:33 PM" />
+</xapCache>
